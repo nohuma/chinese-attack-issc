@@ -6,7 +6,7 @@ This is the official repository for EMNLP 2024 paper "Adaptive Immune-based Soun
 
 ### Code
 
-You can download the package needed as follow:
+You can download the packages needed as follow:
 
 ```
 pip install -r requirement.txt
